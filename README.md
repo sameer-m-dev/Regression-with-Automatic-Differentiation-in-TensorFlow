@@ -1,6 +1,6 @@
 # Regression with Automatic Differentiation in TensorFlow
 
-We will accomplish he final task by completing each task in the project:
+We will accomplish the final task by completing each task in the project:
 
 * <b>Task 1</b>: Introduction
 * <b>Task 2</b>: Tensor Constants
